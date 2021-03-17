@@ -1,0 +1,22 @@
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration:none;
+    cursor: auto;
+}
+.ravi{
+	margin-left:50px;
+	font-size:24px;
+	color:#009;
+	
+}
+.ab{
+	margin-top:-200px;
+	margin-left:20px;
+	color:#906;
+}
+.abc{
+	margin-left:80px;
+	font-size:24px;
+	text-align:left;
+}

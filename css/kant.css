@@ -1,0 +1,47 @@
+.css{
+	font-size:36px;
+	text-align:center;
+	color:#F0C;
+	margin-bottom:20px;
+	margin-top:-110px;
+}
+table tr td input
+{
+	width:90%;
+	height:30px;
+	
+	padding-left:10px;
+
+	font-size:16px;
+	background:#f9f9f9;
+	border-bottom-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+}
+.btn{
+	width:30%;
+	height:30px;
+	
+	padding-left:10px;
+
+	font-size:16px;
+	background:#FFF;
+	border-bottom-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	margin-left:25px;
+	margin-top:20px;
+
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration:none;
+    cursor: auto;
+}
+#select{
+	width:70px;
+	height:15px;
+}

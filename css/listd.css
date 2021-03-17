@@ -1,0 +1,25 @@
+.ravi{
+	font-size:36px;
+	margin-left:20px;
+	color:#00F;
+}
+.kant{
+	font-size:36px;
+	text-align:right;
+	color:#00F;
+	margin-top:15px;
+	margin-right:20px;
+}
+body{
+	height:100%;
+	margin:0 auto;
+	min-height:100%;
+	padding:0;
+	width:980px;
+	background:url(../images/bg.png);
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration:none;
+    cursor: auto;
+}

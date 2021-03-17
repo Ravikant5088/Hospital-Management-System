@@ -1,0 +1,57 @@
+.ravi{
+	font-size:36px;
+	margin-left:20px;
+	color:#F06;
+}
+.kant{
+	font-size:36px;
+	text-align:right;
+	color:#F09;
+	margin-top:15px;
+	margin-right:20px;
+}
+.singh{
+	text-align:left;
+	margin-left:20px;
+	font-size:28px;
+	color:#F06;
+	text-decoration:none;
+	text-decoration:none;
+	
+}
+
+body{
+	height:100%;
+	margin:0 auto;
+	min-height:100%;
+	padding:0;
+	width:980px;
+	background:url(TEXTURE1.GIF);
+}
+.singhs{
+	text-align:right;
+	margin-right:20px;
+	font-size:28px;
+	color:#F06;
+	text-decoration:none;
+}
+.kants{
+	font-size:36px;
+	text-align:right;
+	color:#F09;
+	margin-top:-55px;
+	margin-right:20px;
+	margin-bottom:3px;
+}
+.ravis{
+	font-size:36px;
+	margin-left:20px;
+	margin-top:5px;
+	margin-bottom:20px;
+	color:#F06;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration:none;
+    cursor: auto;
+}

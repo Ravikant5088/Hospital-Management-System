@@ -1,0 +1,43 @@
+.tb{  
+     text-align: left;
+	 margin-top:25px;
+	 margin-left:25px;
+	 font-size:18px;
+	
+}
+.tbe{
+	text-align:center;
+	margin-top:-15px;
+	font-size:18px;
+}
+.tbx{
+	text-align:right;
+	margin-top:-20px;
+	margin-bottom:20px;
+	margin-right:25px;
+	font-size:18px;
+}
+.pict{
+	height:10%;
+}
+.cls{
+	height:30%;
+}
+table tr td input
+{
+	width:70%;
+	height:30px;
+	
+	padding-left:10px;
+
+	font-size:16px;
+	background:#f9f9f9;
+}
+.css{
+	margin-left:100px;
+	width:130px;
+}
+.footer{
+	text-align:right;
+}
+	
